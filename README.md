@@ -5,7 +5,7 @@
 
 ## 竞赛概览
 ### 背景
-本仓库包含[Optiver - Trading at the Close](https://www.kaggle.com/competitions/optiver-trading-at-the-close)竞赛的解决方案。该挑战聚焦于预测纳斯达克10分钟收盘拍卖期间的短期价格波动，这一关键过程占据了日均交易量的近10%。
+本仓库包含[Optiver - Trading at the Close](https://www.kaggle.com/competitions/optiver-trading-at-the-close)竞赛的解决方案。该挑战聚焦于预测纳斯达克10分钟收盘拍卖期间的短期价格波动，这一关键过程占据了日均交易量的近10%。比赛数据见：[Dataset Description](https://www.kaggle.com/competitions/optiver-trading-at-the-close/data)
 
 核心概念：
 - ​**收盘交叉拍卖**：纳斯达克确定官方收盘价的价格发现机制
